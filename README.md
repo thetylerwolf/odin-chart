@@ -6,6 +6,14 @@ My backend and devops skills have come a long way since I worked on this (almost
 
 Now it's for everyone to enjoy. Maybe you'll be the next chart app entrepreneur!
 
+## About the project
+
+Full stack JS
+
+Frontend built in Vue.js
+
+Backend is Parse "serverless" server
+
 ## Build Setup
 
 ```bash
