@@ -1,0 +1,101 @@
+@import './fontawesome.scss';
+@import './helper.scss';
+@import './overrides.scss';
+
+html {
+  height:100%;
+}
+
+body {
+  height: 100%;
+}
+
+#app {
+  font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei',
+    '微软雅黑', Arial, sans-serif;
+  color: #6c757d;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height:100%;
+}
+
+.el-footer {
+  display:flex;
+  justify-content: center;
+  // position:absolute;
+  // bottom:0;
+  width:100%;
+}
+
+#footer {
+  font-size: 12px;
+  text-align: center;
+}
+
+#menu-logo {
+  width: 140px;
+}
+
+#login-logo {
+  height: auto;
+  width: 70%;
+  margin-top: 5%;
+}
+
+#login-logo {
+  height: auto;
+  width: 50%;
+  margin-top: 5%;
+}
+
+.box {
+  margin: 5%;
+  padding: 5%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.12), 0 0 6px rgba(0, 0, 0, 0.04);
+}
+
+.container {
+  padding: 10px;
+}
+
+.google-icon {
+  margin-right: 11px;
+  width: 18px;
+  height: 18px;
+}
+
+.googleSignInOuter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.Gbutton {
+  margin-top: 10px;
+}
+
+.margin0{
+  margin: 0 !important;
+}
+.fullDisplay{
+  width: 100%;
+}
+a:hover{
+  cursor: pointer;
+}
+.customLabel{
+  // display: inline-block;
+  padding-bottom: 10px;
+  line-height: 19px;
+  font-size: 14px;
+  color: #606266;
+  font-weight: 500;
+  font-size: 14px;
+}
+.MT10{
+  margin-top: 10px;
+}
+@media only screen and (max-width: 480px) {
+  .el-dialog {
+    width: 90%;
+  }
+}

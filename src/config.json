@@ -1,0 +1,5 @@
+{
+  "APP_ID": "odin",
+  "SERVER_URL": "http://localhost:1337/parse",
+  "API_URL": "/api"
+}
