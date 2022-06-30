@@ -1,10 +1,14 @@
-# odin
+# Odin Chart Web app
 
-> A Vue.js project
+A web application for designing and publishing interactive charts. Full stack app. I hired a team to develop this originally, then ended up having to rewrite most of the code and prepare it for deployment. They neglected to write any tests, but you get what you pay for :/
+
+My backend and devops skills have come a long way since I worked on this (almost 3 years ago). It was running live for about six months, but I ended up having to drop the project because I had trouble finding interested customers and didn't have the time to do it all myself.
+
+Now it's for everyone to enjoy. Maybe you'll be the next chart app entrepreneur!
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 yarn
 
